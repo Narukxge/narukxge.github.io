@@ -22,7 +22,7 @@
    
     .wave {
         position: absolute;
-        bottom: 40px;
+        bottom: 8vw;
     }
     .purplebox {
         width: 100%;
@@ -45,7 +45,7 @@
     }
     
     .centerdarkmode {
-        margin-top: 350px;
+        margin-top: 95vw;
         text-align: center;
         color: grey;
     }
