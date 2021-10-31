@@ -9,8 +9,10 @@
         padding: 5px;
         margin: 0px;
         margin-right: 0px;
+        color: white;
     }
     * {
+        background-color: #4b4b4b;
         margin: 0;
         font-size: 22px;
         font-family: 'Roboto', sans-serif;
@@ -33,6 +35,7 @@
     }
     
     .centerfont {
+        color: white;
         margin-top: 50px;
         text-align: center;
         font-size: 50px;
@@ -47,7 +50,7 @@
     .centerdarkmode {
         margin-top: 350px;
         text-align: center;
-        color: grey;
+        color: white;
     }
     .fa-moon {
         margin-left: 20px;
