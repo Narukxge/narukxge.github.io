@@ -33,9 +33,10 @@
         bottom: 8vw;
     }
     .purplebox {
+        margin-top: 50px;
         width: 100%;
         height: 11.7vw;
-        position: absolute;
+        position: fixed;
         bottom: 5px;
         background-color: #9c88ff;
     }
