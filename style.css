@@ -100,7 +100,7 @@
 
 /* DESKTOP WEBSITE DESIGN */
 
-@media(max-width: 1920px) {
+@media only screen and(min-width: 1024px) {
     ul {
         text-align: right;
         margin-top: 20px;
@@ -200,7 +200,7 @@
 }
 
 
-@media(min-width: 1921px) {
+@media only screen and (min-width: 1921px) and (max-width: 2560px) {
     ul {
         text-align: right;
         margin-top: 20px;
@@ -268,7 +268,7 @@
     .item {
         display: block;
         text-align: center;
-        margin-top: 15vw;
+        margin-top: 9vw;
         margin-left: 20vw;
         width: 60vw;
         height: 9vw;
