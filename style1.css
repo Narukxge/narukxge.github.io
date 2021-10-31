@@ -16,7 +16,7 @@
         margin: 0;
         font-size: 22px;
         font-family: 'Roboto', sans-serif;
-        overflow-y: hidden;
+        overflow-y: hidden;4    
     }
     a {
         color: white;
@@ -55,17 +55,49 @@
     
     .centerdarkmode {
         display: block;
-        margin-top: 350px;
+        margin-top: 80vw;
         text-align: center;
         color: white;
     }
+    
+    
+    
     .fa-moon {
         margin-left: 20px;
     }
     
-    .fa-book, .fa-home {
-        color: mediumpurple;
+  .fa-book, .fa-home, .fa-book-open {
+    color: mediumpurple;
+}
+
+    
+     .item {
+        display: block;
+        text-align: center;
+        margin-top: 15vw;
+        margin-left: 10vw;
+        width: 80vw;
+        height: 150vw;
+        border-radius: 15px;
+        background-color: #9c88ff;
+        z-index: 1;
     }
+    
+    .item p {
+        display: block;
+        color: #ecf0f1;
+        font-size: 24px;
+        padding: 15px;
+        z-index: 2;
+        background-color: #9c88ff;
+    }
+    
+    .white {
+        color: white;
+        background-color: #9c88ff;
+    }
+    
+    
     
 }
 
@@ -143,10 +175,37 @@
         z-index: 1;
     }
     
-    .fa-book, .fa-home {
+    .item {
+        display: block;
+        text-align: center;
+        margin-top: 15vw;
+        margin-left: 20vw;
+        width: 60vw;
+        height: 9vw;
+        background-color: #9c88ff;
+        z-index: 1;
+
+        border-radius: 15px;
+    }
+    
+    .item p {
+        display: block;
+        color: #ecf0f1;
+        font-size: 24px;
+        padding: 15px;
+        z-index: 2;
+        background-color: #9c88ff;
+        border-radius: 15px;
+    }
+    
+    .fa-book, .fa-home, .fa-book-open {
         color: mediumpurple;
     }
     
+    .white {
+        color: white;
+        background-color: #9c88ff;
+    }
     
 }
     
@@ -156,8 +215,9 @@
 
 
 
-.fa-book, .fa-home {
+.fa-book, .fa-home, .fa-book-open {
     color: mediumpurple;
 }
+
 
  
