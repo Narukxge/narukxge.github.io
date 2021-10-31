@@ -40,7 +40,7 @@
     }
     
     .centerfont {
-        margin-top: 50px;
+        margin-top: 70px;
         text-align: center;
         font-size: 50px;
     }
@@ -52,7 +52,7 @@
     }
     
     .centerdarkmode {
-        margin-top: 80vw;
+        margin-top: 25vw;
         text-align: center;
         color: grey;
        
@@ -67,7 +67,7 @@
         margin-top: 15vw;
         margin-left: 10vw;
         width: 80vw;
-        height: 150vw;
+        height: 70%;
         background-color: #9c88ff;
         z-index: 1;
 
