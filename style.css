@@ -28,7 +28,7 @@
     
     .wave {
         width: 100%;
-        position: absolute;
+        position: fixed;
         bottom: 8vw;
     }
     .purplebox {
