@@ -99,7 +99,7 @@
 
 /* DESKTOP WEBSITE DESIGN */
 
-@media only screen and(min-width: 1024px) {
+@media (min-width: 769px) {
     ul {
         text-align: right;
         margin-top: 20px;
