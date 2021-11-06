@@ -16,7 +16,7 @@
         margin: 0;
         font-size: 22px;
         font-family: 'Roboto', sans-serif;
-        overflow-y: hidden;    
+        overflow-y: auto;    
     }
     a {
         color: white;
@@ -154,7 +154,6 @@
         z-index: 2;
         color: #ecf0f1;
         text-align: center;
-  
     }
     
     .C-Sharp2 h1 {
