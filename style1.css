@@ -71,6 +71,111 @@
     color: mediumpurple;
 }
 
+        .C-Sharp {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 18vw; 
+        margin-top: 5vw;
+        background-color: #9c88ff;
+        width: 80vw;
+        height: 50vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+  
+    }
+    
+    .C-Sharp h1 {
+        margin-top: 1vw;
+         background-color: #9c88ff;
+    }
+    
+    .C-Sharp p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+         background-color: #9c88ff;
+    }
+    
+    .C-Sharp a {
+        color: #ecf0f1;
+        font-size: 20px;
+        background-color: #9c88ff;
+    }
+    
+    .C-Sharp a:hover {
+        color: darkcyan;
+    }
+    
+    .C-Sharp1 {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 18vw; 
+        margin-top: 70vw;
+        background-color: #9c88ff;
+        width: 80vw;
+        height: 50vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+        
+    }
+    
+    .C-Sharp1 h1 {
+        margin-top: 1vw;
+         background-color: #9c88ff;
+    }
+    
+    .C-Sharp1 p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+         background-color: #9c88ff;
+    }
+    
+    .C-Sharp1 a {
+        color: #ecf0f1;
+        font-size: 20px;
+    }
+    
+    .C-Sharp1 a:hover {
+        color: darkcyan;
+    }
+
+    .C-Sharp2 {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 18vw; 
+        margin-top: 135vw;
+        background-color: #9c88ff;
+        width: 80vw;
+        height: 50vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+  
+    }
+    
+    .C-Sharp2 h1 {
+        margin-top: 1vw;
+        background-color: #9c88ff;
+    }
+    
+    .C-Sharp2 p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+        background-color: #9c88ff;
+    }
+    
+    .C-Sharp2 a {
+        color: #ecf0f1;
+        font-size: 20px;
+    }
+    
+    .C-Sharp2 a:hover {
+        color: darkcyan;
+    }
     
      .item {
         display: block;
@@ -176,16 +281,15 @@
         z-index: 1;
     }
     
-    .item {
+     .item {
         display: block;
         text-align: center;
-        margin-top: 9vw;
+        margin-top: 5vw;
         margin-left: 20vw;
         width: 60vw;
-        height: 10vw;
+        height: 6vw;
         background-color: #9c88ff;
         z-index: 1;
-
         border-radius: 15px;
     }
     
@@ -199,6 +303,107 @@
         border-radius: 15px;
     }
     
+    .C-Sharp {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 20vw; 
+        margin-top: 5vw;
+        background-color: #9c88ff;
+        width: 18vw;
+        height: 20vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+  
+    }
+    
+    .C-Sharp h1 {
+        margin-top: 1vw;
+    }
+    
+    .C-Sharp p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+    }
+    
+    .C-Sharp a {
+        color: #ecf0f1;
+        font-size: 20px;
+    }
+    
+    .C-Sharp a:hover {
+        color: darkcyan;
+    }
+    
+    .C-Sharp1 {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 62vw; 
+        margin-top: 5vw;
+        background-color: #9c88ff;
+        width: 18vw;
+        height: 20vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+  
+    }
+    
+    .C-Sharp1 h1 {
+        margin-top: 1vw;
+    }
+    
+    .C-Sharp1 p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+    }
+    
+    .C-Sharp1 a {
+        color: #ecf0f1;
+        font-size: 20px;
+    }
+    
+    .C-Sharp1 a:hover {
+        color: darkcyan;
+    }
+    
+    .C-Sharp2 {
+        position: absolute;
+        max-width: 60vw;
+        margin-left: 41.1vw; 
+        margin-top: 5vw;
+        background-color: #9c88ff;
+        width: 18vw;
+        height: 20vw;
+        border-radius: 15px;
+        z-index: 2;
+        color: #ecf0f1;
+        text-align: center;
+  
+    }
+    
+    .C-Sharp2 h1 {
+        margin-top: 1vw;
+    }
+    
+    .C-Sharp2 p {
+        margin-top: 0.5vw;
+        font-size: 20px;
+    }
+    
+    .C-Sharp2 a {
+        color: #ecf0f1;
+        font-size: 20px;
+    }
+    
+    .C-Sharp2 a:hover {
+        color: darkcyan;
+    }
+    
+    
+  
     .fa-book, .fa-home, .fa-book-open {
         color: mediumpurple;
     }
